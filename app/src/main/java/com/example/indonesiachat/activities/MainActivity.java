@@ -1,4 +1,4 @@
-package com.example.indonesiachat;
+package com.example.indonesiachat.activities;
 
 /*
 ==========================
@@ -17,6 +17,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.indonesiachat.R;
 
 public class MainActivity extends AppCompatActivity {
 

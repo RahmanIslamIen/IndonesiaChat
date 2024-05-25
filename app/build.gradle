@@ -1,5 +1,7 @@
 plugins {
     alias(libs.plugins.androidApplication)
+    //id 'com.android.application'
+    id 'com.google.gms.google-services'
 }
 
 android {
@@ -12,7 +14,7 @@ android {
         targetSdk 34
         versionCode 1
         versionName "1.0"
-
+        multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -44,4 +46,12 @@ dependencies {
     //implement tambahan
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
     implementation 'com.makeramen:roundedimageview:2.3.0'
+    //implementation platform('com.google.firebase:firebase-bom:33.0.0')
+
+    //impementasi untuk penggunaan firebase
+    implementation libs.firebase.messaging
+    implementation libs.firebase.firestore
+
+    //multidex
+    implementation 'androidx.multidex:multidex:2.0.1'
 }
