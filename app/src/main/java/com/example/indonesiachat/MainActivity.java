@@ -1,5 +1,15 @@
 package com.example.indonesiachat;
 
+/*
+==========================
+ UTS PEMROGRAMAN ANDROID
+==========================
+nama kelompok:
+411211069 RAHMAN ISLAM
+4112111057 ISATI GULO
+411211138 ROBBY CAHYADI
+*/
+
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
