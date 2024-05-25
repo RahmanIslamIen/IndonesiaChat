@@ -2,9 +2,9 @@
 aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
 <b>nama kelompok</b>
 <ul>
-  <li>411211069 RAHMAN ISLAM</li>
-  <li>4112111057 ISATI GULO</li>
-  <li>411211138 ROBBY CAHYADI</li>
+  <li>411211069 - RAHMAN ISLAM</li>
+  <li>4112111057 - ISATI GULO</li>
+  <li>411211138 - ROBBY CAHYADI</li>
 </ul>
 
 ## HASIL SCREENSHOOT
