@@ -1,7 +1,7 @@
 # UTS PEMROGRAMAN ANDROID - RIAD SIHARA
 aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
 
-<b>nama kelompok</b>
+<b>Nama Kelompok</b>
 <ul>
   <li>411211069 - RAHMAN ISLAM
   <a href="https://docs.google.com/document/d/1Ay5BbHuhk4bUWUFFaArBCGLPs4onZ6Ah/edit?usp=sharing&ouid=111728269137145342838&rtpof=true&sd=true">
@@ -23,13 +23,18 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
 
 
 ## HASIL SCREENSHOOT
-<table>
-  <tr>
-    <td><img src="sign-in.jpg" /></td>
-    <td><img src="sign-up.jpg" /></td>
-  </tr>
-  <tr>
-    <td><img src="select-user.jpg" /></td>
-    <td><img src="chat.jpg" /></td>
-  </tr>
-</table>
+<center>
+  <table>
+    <tr>
+      <td><img src="sign-in.jpg" /></td>
+      <td><img src="sign-up.jpg" /></td>
+    </tr>
+    <tr>
+      <td><img src="select-user.jpg" /></td>
+      <td><img src="chat.jpg" /></td>
+    </tr>
+    <tr>
+      <td><img src="percakapan-terakhir.jpg" /></td>
+    </tr>
+  </table>
+</center>
