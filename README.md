@@ -28,8 +28,6 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
     <tr>
       <td><img src="sign-in.jpg" /></td>
       <td><img src="sign-up.jpg" /></td>
-    </tr>
-    <tr>
       <td><img src="select-user.jpg" /></td>
       <td><img src="chat.jpg" /></td>
     </tr>
