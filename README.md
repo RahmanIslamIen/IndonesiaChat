@@ -35,6 +35,7 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
       <td><img src="percakapan-terakhir.jpg" /></td>
       <td><img src="layar-chat-1.jpg" /></td>
       <td><img src="layar-chat-2.jpg" /></td>
+      <td><img src="tampilan_luar_aplikasi.jpg" /></td>
     </tr>
   </table>
 </center>
