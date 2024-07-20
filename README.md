@@ -20,8 +20,6 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
   </li>
 </ul>
     
-
-
 ## HASIL SCREENSHOOT
 <center>
   <table>
@@ -39,3 +37,7 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
     </tr>
   </table>
 </center>
+
+
+## Database Pada Aplikasi Indoensia Chat
+## Firebase - Firestore
