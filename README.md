@@ -40,4 +40,7 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya. dat
 
 
 ## Database Pada Aplikasi Indoensia Chat | Firebase - Firestore
+data base yang tersimpan.
 <img src="firebase_firestore_indonesiaChat.png"/>
+grafik penggunaan database pada firestore.
+<img src="firebase_firestore_indonesiaChat_01.png"/>
