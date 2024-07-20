@@ -1,5 +1,5 @@
 # UTS PEMROGRAMAN ANDROID - RIAD SIHARA
-aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
+aplikasi social media chat dengan firebase berikut adalah nama kelompok nya. database menggunakan <b>Firebase</b> yang dimana data nya tersimpan di server google yang menjalankan layanan firestore.
 
 <b>Nama Kelompok</b>
 <ul>
@@ -39,5 +39,5 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya
 </center>
 
 
-## Database Pada Aplikasi Indoensia Chat
-## Firebase - Firestore
+## Database Pada Aplikasi Indoensia Chat | Firebase - Firestore
+<img src="firebase_firestore_indonesiaChat.png"/>
