@@ -1,7 +1,9 @@
 # UTS PEMROGRAMAN ANDROID - RIAD SIHARA
 aplikasi social media chat dengan firebase berikut adalah nama kelompok nya. database menggunakan <b>Firebase</b> yang dimana data nya tersimpan di server google yang menjalankan layanan firestore.
 
-<b>LINK DEMO APLIKASI : <a href="https://youtu.be/Us2LtXLWbG4" target="_blank">https://youtu.be/Us2LtXLWbG4</a></b>
+## <b>LINK DATABASE 💾 APLIKASI : <a href="https://github.com/RahmanIslamIen/IndonesiaChat/blob/main/dataBaseAplikasi_IndonesiaChat.json" target="_blank">dataBaseAplikasi_IndonesiaChat.json</a></b>
+
+## <b>LINK DEMO APLIKASI : <a href="https://youtu.be/Us2LtXLWbG4" target="_blank">https://youtu.be/Us2LtXLWbG4</a></b>
 
 <b>Nama Kelompok</b>
 <ul>
