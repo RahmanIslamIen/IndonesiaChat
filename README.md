@@ -48,3 +48,5 @@ data base yang tersimpan.
 <img src="firebase_firestore_indonesiaChat.png"/>
 grafik penggunaan database pada firestore.
 <img src="firebase_firestore_indonesiaChat_01.png"/>
+prosees saat expor database
+<img src="saat_export_database.png"/>
