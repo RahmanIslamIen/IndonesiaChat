@@ -46,15 +46,18 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya. dat
 
 ## Database Pada Aplikasi Indoensia Chat | Firebase - Firestore
 
-<table>
-  <tr>
-    <td>data base yang tersimpan.</td>
-    <td>grafik penggunaan database pada firestore.</td>
-    <td>prosees saat expor database</td>
-  </tr>
-  <tr>
-    <td><img src="gambar_screenshot/firebase_firestore_indonesiaChat.png"/></td>
-    <td><img src="gambar_screenshot/firebase_firestore_indonesiaChat_01.png"/></td>
-    <td><img src="gambar_screenshot/saat_export_database.png"/></td>
-  </tr>
-</table>
+<center>
+  <table>
+    <tr>
+      <td>data base yang tersimpan.</td>
+      <td>grafik penggunaan database pada firestore.</td>
+    </tr>
+    <tr>
+      <td><img src="gambar_screenshot/firebase_firestore_indonesiaChat.png"/></td>
+      <td><img src="gambar_screenshot/firebase_firestore_indonesiaChat_01.png"/></td>
+    </tr>
+  </table>
+</center>
+
+proses saat export database firestore menggunakan node js
+<img src="gambar_screenshot/saat_export_database.png"/>
