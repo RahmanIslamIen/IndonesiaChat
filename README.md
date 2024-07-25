@@ -61,3 +61,7 @@ aplikasi social media chat dengan firebase berikut adalah nama kelompok nya. dat
 
 proses saat export database firestore menggunakan node js
 <img src="gambar_screenshot/saat_export_database.png"/>
+
+thumbnail youtube
+<img src="gambar_screenshot/thumbnail_youtube.png"/>
+
